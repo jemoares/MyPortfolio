@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Hello, My name is Jheremie
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my Portfolio of the Projects that I made during my College days.
