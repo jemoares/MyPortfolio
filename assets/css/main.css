@@ -647,7 +647,7 @@ section,
   content: "";
   position: absolute;
   display: block;
-  width: 50px;
+  width: 90px;
   height: 3px;
   background: var(--accent-color);
   left: 0;
@@ -784,7 +784,7 @@ section,
   content: "";
   position: absolute;
   display: block;
-  width: 64px;
+  width: 150px;
   height: 3px;
   background: var(--accent-color);
   left: 0;
@@ -793,7 +793,7 @@ section,
 }
 
 .about .about-me p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 /*--------------------------------------------------------------
